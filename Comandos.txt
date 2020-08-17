@@ -6,12 +6,16 @@ COMPILAR E INICIAR A APLICAÇÃO		ng serve -o
 
 ANGULAR MATERIAL
 	-	Framework de design de componentes
-	-	https://material.angular.io/
+	-	https://material.angular.io/				-->  esse cara é seu amigo !!! rs
 	-	Schematics	-->	novo recurso do angular
 
 INSTALAR O ANGULAR MATERIAL			ng add @angular/material@6.0.1		-->	versão do angular
 INSTALAR O ANGULAR CDK				npm i @angular/cdk@6.0.1
+INSTALAR O HAMMER JS				npm i hammerjs
+	-	SUPORTE A GESTOS
 
 
+COMPONENTES:		https://material.angular.io/components/categories
+TEMAS:				https://material.angular.io/guide/theming
 
 
